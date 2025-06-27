@@ -1,0 +1,14 @@
+{
+    "name": "tool-bootcommander",
+    "version": "1.19.01",
+    "description": "BootCommander is a command line interface (CLI) program for performing firmware updates on a microcontroller that runs the OpenBLT bootloader.",
+    "keywords": [
+        "tools",
+        "uploader",
+        "openblt",
+        "feaser"
+    ],
+    "system": [
+        "windows_amd64"
+    ]
+}
