@@ -10,5 +10,6 @@
     ],
     "system": [
         "windows_amd64"
-    ]
+    ],
+    "platforms": ["windows"]
 }
